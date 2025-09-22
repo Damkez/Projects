@@ -1,0 +1,9 @@
+Project/
+└─ sabah-deforestation-monitoring/
+   ├─ README.md          <-- put the content below here
+   ├─ src/
+   │  └─ sabah_deforestation_app.js
+   └─ docs/
+      ├─ screenshot-main.png
+      ├─ screenshot-swipe.png
+      └─ screenshot-chart.png
