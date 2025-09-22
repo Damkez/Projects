@@ -80,13 +80,3 @@ Increase date window (e.g., ±60 days) or relax `CLOUDY_PIXEL_PERCENTAGE` (e.g.,
 You must select a district first and have asset read permissions.
 
 ---
-
-## 📂 Folder Structure
-sabah-deforestation-monitoring/
-├─ README.md
-├─ src/
-│ └─ sabah_deforestation_app.js
-└─ docs/
-├─ screenshot-main.png
-├─ screenshot-swipe.png
-└─ screenshot-chart.png
