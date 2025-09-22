@@ -80,6 +80,8 @@ Increase date window (e.g., ±60 days) or relax `CLOUDY_PIXEL_PERCENTAGE` (e.g.,
 You must select a district first and have asset read permissions.
 
 ---
+<img width="1676" height="1053" alt="image" src="https://github.com/user-attachments/assets/8768df67-faa3-4963-a8c6-6abbbf9961b7" />
 
-## 📂 Folder Structure
+
+
 
