@@ -1,4 +1,4 @@
-# Sabah Deforestation Monitoring (Earth Engine App)
+# Sabah Deforestation Monitoring 
 
 Interactive Google Earth Engine (GEE) app to visualize **integrated deforestation alerts** in *Sabah, Malaysia*, inspect **Sentinel-2 before/after** imagery with a swipe, and plot **yearly trend charts** (2020–2025) for Sabah or any ADM2 district.
 
@@ -82,4 +82,11 @@ You must select a district first and have asset read permissions.
 ---
 
 ## 📂 Folder Structure
-
+sabah-deforestation-monitoring/
+├─ README.md
+├─ src/
+│ └─ sabah_deforestation_app.js
+└─ docs/
+├─ screenshot-main.png
+├─ screenshot-swipe.png
+└─ screenshot-chart.png
