@@ -37,12 +37,9 @@ Interactive Google Earth Engine (GEE) app to visualize **integrated deforestatio
 
 ---
 
-## ▶️ Run it in Earth Engine
+## ▶️ Open Earth Engine Application
 
-1. Open https://code.earthengine.google.com/
-2. Create a new script and paste `src/sabah_deforestation_app.js`.
-3. Ensure your account can read all assets listed above.
-4. Click **Run**.
+1. Open [https://code.earthengine.google.com/](https://productdevelopment.users.earthengine.app/view/sabah-deforestation-monitoring)
 
 **Startup behavior:**  
 - Centers on Sabah, loads default layers.  
@@ -81,6 +78,7 @@ You must select a district first and have asset read permissions.
 
 ---
 <img width="1676" height="1053" alt="image" src="https://github.com/user-attachments/assets/8768df67-faa3-4963-a8c6-6abbbf9961b7" />
+
 
 
 
